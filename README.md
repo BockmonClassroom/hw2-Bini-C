@@ -30,4 +30,12 @@ Due 1/24/2025
     Measuring Golden Pothos and Dwarf Tree was also tricky because some leaves were curved or not completely flat, and I had to flatten them carefully and adjust the ruler to get accurate measurements.
     Finally, the process was a little time consuming. It took me 90 minutes to measure all 90 leaves, but I wanted to ensure accuracy and avoid damaging the plants, so I worked slowly and carefully.
 
+   
+    ![image](https://github.com/user-attachments/assets/ade38c50-7bdc-491a-afb8-ca98e2dfc5e2)    ![image](https://github.com/user-attachments/assets/3699b27b-3e2c-484b-a432-5965f9905bee)    ![image](https://github.com/user-attachments/assets/2c1abde9-7dd8-4f92-8139-93c8371db537)
+
+
+
+
+
+
 
