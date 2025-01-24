@@ -8,7 +8,7 @@ Due 1/24/2025
 
 1. Explain your data collection process.
 
-    I have a few plants at home, so I decided to collect data from three of my houseplants: Holy Basil, Golden Pothos, and Dwarf Umbrella Tree. I measured the length and width of 30 leaves for each plant, focusing mostly on the matured leaves because they were easier to measure and represented the plant's typical leaf size. I recorded all the measurements ain a table and saved them in a CSV file for further analysis.
+    I have a few plants at home, so I decided to collect data from three of my houseplants: Holy Basil, Golden Pothos, and Dwarf Umbrella Tree. I researched how to measure the length and width of a leaf and then measured 30 leaves for each plant, focusing mostly on the matured leaves because they were easier to measure and represented the plant's typical leaf size. I recorded all the measurements in a table and saved them in a CSV file for further analysis.
 
 2. What instrument did you use to collect data with?
 
@@ -17,7 +17,7 @@ Due 1/24/2025
 3. Argue the accuracy and precision of your instrument.
 
     I found that the ruler and measuring tape are fairly accurate for measuring the leaf length and width. I could measure up to 0.1 cm(1 mm), which was precise enough for this assignment.
-    However, since these are manual tools, there is always a slight chance of errors. To minimize those errors, I took time and patience and measured each leaf twice. Also, since I focused on mature leaves, which are easier to measure, I believe the results are reliable overall.
+    However, since these are manual tools, there is always a slight chance of errors. To minimize those errors, I took time and patience and measured each leaf twice. Also, since I focused on mature leaves, which are easier to measure, I     believe the results are reliable overall.
 
 4. How many data points did you collect? Why?
 
