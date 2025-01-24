@@ -39,6 +39,21 @@ Due 1/24/2025
     ![image](https://github.com/user-attachments/assets/ade38c50-7bdc-491a-afb8-ca98e2dfc5e2)    ![image](https://github.com/user-attachments/assets/3699b27b-3e2c-484b-a432-5965f9905bee)    ![image](https://github.com/user-attachments/assets/2c1abde9-7dd8-4f92-8139-93c8371db537)
 
 
+================================================================================================================================================================
+
+Analysis:
+
+Questions 1, 2, and 3 are answered in the HW2.py file.
+
+4. Explain each graph in terms of variance, mean, median, and standard deviation. 
+
+The graphs show that Holy Basil has small and similar-sized leaves, with very little difference in length and width (mean: ~2.3 cm, std dev: ~0.26 cm). Golden Pothos has bigger leaves with more differences in size (mean: ~9.9 cm, std dev: ~1.87 cm), and some leaves are much larger than others. Dwarf Umbrella Tree is in between, with medium-sized leaves and some variation (mean: ~4.58 cm, std dev: ~0.59 cm). The scatter plots show that longer leaves are also wider for all plants, with Holy Basil being the most consistent and Golden Pothos the least.
+
+
+5. What can you infer with data and graphs that you have?
+
+Holy Basil has small, consistent leaves that grow in similar proportions. Golden Pothos has larger leaves with more variation, but longer leaves are still wider. Dwarf Umbrella Tree has medium-sized leaves that are more consistent than Golden Pothos but less consistent than Holy Basil. Overall, each plant shows its own unique pattern of leaf growth.
+
 
 
 
