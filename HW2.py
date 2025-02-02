@@ -16,6 +16,20 @@ columns = ["Leaf_Length(Cm)", "Leaf_Width(Cm)"]
 # Group the data by PlantName
 groups = data.groupby("PlantName")
 
+# Finding variance, mean, median, and standard deviation for each plant type
+for name, group in groups:
+     for column in columns:
+         print(f"\n{name}'s {column} Summary:")
+         mean = group[column].mean()
+         median = group[column].median()
+         st_Deviation = group[column].std()
+         variance = group[column].var()
+         print(f"Mean:", mean, f"\nMedian:", median, f"\nStandard Deviation:", st_Deviation, f"\nVariance:", variance)
+
+# Printing statistics summary again as suggested by TA
+summary_stats = groups[columns].agg(['mean', 'median', 'var', 'std'])
+print(summary_stats)
+
 # Helper function to create histograms
 def helper(tickLabel, i, binData, column, binColor):
     axes[i].hist(binData, bins=10, alpha=0.7, color=binColor, edgecolor="black")

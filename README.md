@@ -47,12 +47,14 @@ Questions 1, 2, and 3 are answered in the HW2.py file.
 
 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
 
-The graphs show that Holy Basil has small and similar-sized leaves, with very little difference in length and width (mean: ~2.3 cm, std dev: ~0.26 cm). Golden Pothos has bigger leaves with more differences in size (mean: ~9.9 cm, std dev: ~1.87 cm), and some leaves are much larger than others. Dwarf Umbrella Tree is in between, with medium-sized leaves and some variation (mean: ~4.58 cm, std dev: ~0.59 cm). The scatter plots show that longer leaves are also wider for all plants, with Holy Basil being the most consistent and Golden Pothos the least.
+The graphs show that Holy Basil has small and similar-sized leaves, with low variance and a small standard deviation (mean: ~2.3 cm, median: ~2.25 cm, std dev: ~0.26 cm, variance: ~0.07 cm²). Golden Pothos has much bigger leaves and a lot more variation, with some leaves being much larger than others (mean: ~9.9 cm, median: ~9.35 cm, std dev: ~1.87 cm, variance: ~3.51 cm²). Dwarf Umbrella Tree is in between, with medium-sized leaves and some variation (mean: ~4.58 cm, median: ~4.7 cm, std dev: ~0.59 cm, variance: ~0.35 cm²). The mean and median are almost the same for Holy Basil and Dwarf Umbrella Tree, meaning their leaves are more evenly sized. But for Golden Pothos, the mean is slightly higher than the median, suggesting a few larger leaves. A similar pattern is seen for leaf width, where Holy Basil has the most consistent widths, and Golden Pothos has the most spread. The scatter plots show that longer leaves are also wider for all plants, with Holy Basil being the most consistent and Golden Pothos the least.
 
 
 5. What can you infer with data and graphs that you have?
 
 Holy Basil has small, consistent leaves that grow in similar proportions. Golden Pothos has larger leaves with more variation, but longer leaves are still wider. Dwarf Umbrella Tree has medium-sized leaves that are more consistent than Golden Pothos but less consistent than Holy Basil. Overall, each plant shows its own unique pattern of leaf growth.
+
+
 
 
 
