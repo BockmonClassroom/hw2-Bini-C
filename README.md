@@ -55,6 +55,29 @@ The graphs show that Holy Basil has small and similar-sized leaves, with low var
 Holy Basil has small, consistent leaves that grow in similar proportions. Golden Pothos has larger leaves with more variation, but longer leaves are still wider. Dwarf Umbrella Tree has medium-sized leaves that are more consistent than Golden Pothos but less consistent than Holy Basil. Overall, each plant shows its own unique pattern of leaf growth.
 
 
+================================================================================================================================================================
+
+Graph Visualizations:
+
+The histograms and boxplots show that Holy Basil has small leaves that are mostly the same size, Golden Pothos has the biggest leaves with lots of size differences, and Dwarf Umbrella Tree is in between. The scatter plots show that longer leaves are also wider, with Holy Basil being the most even and Golden Pothos having the most variation.
+
+
+ScatterPlot:
+
+![ScatterPlot](https://github.com/user-attachments/assets/e1368919-5bf8-4c13-ab21-e7e2b82bf081)
+
+Histogram:
+
+![Histogram_LeafWidth](https://github.com/user-attachments/assets/209ea58c-5b85-4c0c-8c5c-4132e3757eb3)
+![Histogram_LeafLength](https://github.com/user-attachments/assets/68aad7de-f517-4c48-ab0b-2aabd66f2910)
+
+BoxPlot:
+
+![BoxPlot](https://github.com/user-attachments/assets/6e74721a-69e3-4f26-886e-800018b045f4)
+
+
+
+
 
 
 
